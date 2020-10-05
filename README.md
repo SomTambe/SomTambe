@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 I am Som Tambe. Undergraduate student majoring in Aerospace Engineering. IIT Kanpur.
 
 I like exploring different domains in the whole wide world!
-- 🌱 I’m currently learning [German](https://en.wikipedia.org/wiki/German_language).
+<!--- 🌱 I’m currently learning [German](https://en.wikipedia.org/wiki/German_language).-->
 - 📫 How to reach me: [Facebook](https://facebook.com/tambesom), [somvt@iitk.ac.in](mailto:somvt@iitk.ac.in). You can also find my mobile number if you dig a bit deeper.
 - ⚡ Fun fact: I love swimming! 
