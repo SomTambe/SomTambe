@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 I am Som Tambe. Undergraduate student majoring in Aerospace Engineering. IIT Kanpur.
 
-I do whatever interests me, and there is a wide array of things that interest me 😸.
-<!--- 🌱 I’m currently learning [German](https://en.wikipedia.org/wiki/German_language).-->
+I am the Coordinator of the [Programming Club, IIT Kanpur](https://pclub.in/).
+
+- 🔭 I’m currently working on building a [Differentiable Computer Vision](https://somtambe.github.io/blogs/summer_21/) library in pure Julia.
 - 📫 How to reach me: [Facebook](https://facebook.com/tambesom), [somvt@iitk.ac.in](mailto:somvt@iitk.ac.in).
 - 🖥️ You can also read my blog [here](https://somtambe.github.io/blogs/). I have just recently started blogging, and I am not sure how long and consistently will I continue it.
 - ⚡ Fun fact: I love swimming! 
